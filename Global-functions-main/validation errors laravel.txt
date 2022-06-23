@@ -1,0 +1,5 @@
+@error('username')
+<p class="text-danger" id="al">{{$message}}</p>
+@enderror
+
+<p>test</p>
